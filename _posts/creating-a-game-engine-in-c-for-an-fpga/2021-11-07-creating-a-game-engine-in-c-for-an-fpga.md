@@ -3,21 +3,14 @@ title: "Creating Asteroids from Scratch in C For an FPGA - ECE243"
 date: "2021-11-07"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.webp"
 layout: post
 ---
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2021/11/image-3.png?w=485)
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.webp?w=485)
 
-<figcaption>
-
-Gameplay image
-
-</figcaption>
-
-</figure>
+*Gameplay image*
 
 In the ECE243 computer organization course, I delved into the intricacies of graphics programming from scratch on an FPGA board, a journey that provided invaluable insights into low-level computer graphics and driver operations. My teammate and I, despite the challenges of remote learning, took on the semester project with enthusiasm, creating an engaging Asteroids game that went beyond the curriculum.
 
@@ -33,17 +26,10 @@ In the ECE243 computer organization course, I delved into the intricacies of gra
     
     - Implemented complementary LED and 7-segment displays to showcase lives and scores.
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2021/11/image-5.png?w=603)
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/hex.webp?w=603)
 
-<figcaption>
-
-HEX and LED displays
-
-</figcaption>
-
-</figure>
+*HEX and LED displays*
 
 **Skills and Learning:**
 
@@ -57,17 +43,10 @@ HEX and LED displays
     
     - Navigated the intricacies of teamwork in a remote environment, ensuring seamless integration of diverse features.
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2021/11/image-4.png?w=1024)
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/EmulationSite.webp?w=1024)
 
-<figcaption>
-
-Title screen of the game, shown on the emulation website
-
-</figcaption>
-
-</figure>
+*Title screen of the game, shown on the emulation website*
 
 **Career Relevance:**
 

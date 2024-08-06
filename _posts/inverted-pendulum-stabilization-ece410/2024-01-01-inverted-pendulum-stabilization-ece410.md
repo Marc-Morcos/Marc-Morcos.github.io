@@ -3,11 +3,11 @@ title: "Inverted Pendulum Stabilization - ECE410"
 date: "2024-01-01"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/inverted-pendulum-stabilization-ece410/small3-1.gif"
 layout: post
 ---
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2024/01/small3-1.gif?w=288)
+![](/assets/images/posts/inverted-pendulum-stabilization-ece410/small3-1.gif?w=288)
 
 The highlight of my ECE 410 course was the hands-on implementation of advanced control theory through the Inverted Pendulum project. This ambitious endeavor not only reinforced my theoretical understanding of robotics control but also showcased my ability to apply this knowledge to real-world challenges.
 

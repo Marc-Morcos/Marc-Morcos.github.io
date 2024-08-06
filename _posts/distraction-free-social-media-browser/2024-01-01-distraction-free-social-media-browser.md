@@ -3,21 +3,14 @@ title: "Distraction Free Social Media Browser"
 date: "2024-01-01"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/distraction-free-social-media-browser/androidStudioLogo.png"
 layout: post
 ---
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2024/01/android-studio-icon-486x512-zp9um7zl.png?w=486)
+![](/assets/images/posts/distraction-free-social-media-browser/androidStudioLogo.png?w=486)
 
-<figcaption>
-
-Android Studio Logo [Image from Source \[3\]](https://marcmorcos.wordpress.com/references/)
-
-</figcaption>
-
-</figure>
+*Android Studio Logo. [Image Source](https://iconduck.com/icons/60851/android-studio)*
 
 In a conscious effort to reclaim valuable time from social media, I recognized the need to maintain a connection with friends while minimizing distractions. This realization inspired me to embark on the creation of my own distraction-free social media browsing app. Leveraging Android Studio and the Kotlin programming language, which I was concurrently learning for other projects, I set out to enhance my skills and craft a tool that aligned with my personal goals.
 
@@ -47,7 +40,7 @@ In a conscious effort to reclaim valuable time from social media, I recognized t
 
 **GitHub Repository:**
 
-- The project is publicly accessible on GitHub at [Instagram-Messenger](https://github.com/MarcM0/Instagram-Messenger), providing transparency and an opportunity for collaboration and feedback from the developer community.
+- The project is publicly accessible on GitHub at [Instagram-Messenger](https://github.com/Marc-Morcos/Instagram-Messenger), providing transparency and an opportunity for collaboration and feedback from the developer community.
 
 **Career Relevance:**
 

@@ -3,21 +3,14 @@ title: "Infra Red Rock Paper Scissors - Grade 12 Coding"
 date: "2021-11-07"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/infra-red-rock-paper-scissors/1.png"
 layout: post
 ---
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2021/11/2.png?w=565)
+![](/assets/images/posts/infra-red-rock-paper-scissors/1.png?w=565)
 
-<figcaption>
-
-Displaying the "scissors" symbol to the infra red sensor
-
-</figcaption>
-
-</figure>
+*Displaying the "scissors" symbol to the infra red sensor*
 
 For our final project in grade 12 coding class, my team and I had the freedom to choose any project. Drawing inspiration from my previous experience with an infrared sensor in creating a virtual reality headset, we embarked on a journey to repurpose the sensor for an engaging and interactive Rock, Paper, Scissors game.
 

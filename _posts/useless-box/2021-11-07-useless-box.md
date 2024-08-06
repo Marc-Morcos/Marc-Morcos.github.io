@@ -3,23 +3,16 @@ title: "\"Useless\" Box - Grade 11 Coding"
 date: "2021-11-07"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/useless-box/box-1.gif"
 layout: post
 ---
 
 During my grade 11 coding course, we were given the freedom to choose a project, and my team enthusiastically decided to create a "useless" box, a whimsical device that deactivates itself when clicked. Leveraging a Raspberry Pi board and a relay, we embarked on a journey that not only resulted in a fun and quirky creation but also provided invaluable insights into coding, hardware integration, and prototyping.
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2021/11/box-1.gif?w=414)
+![](/assets/images/posts/useless-box/box-1.gif?w=414)
 
-<figcaption>
-
-Image of the "Useless" box
-
-</figcaption>
-
-</figure>
+*Image of the "Useless" box*
 
 **Key Contributions:**
 

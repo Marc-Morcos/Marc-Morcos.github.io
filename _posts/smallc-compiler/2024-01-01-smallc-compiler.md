@@ -3,22 +3,14 @@ title: "SmallC Compiler - ECE467"
 date: "2024-01-01"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/smallc-compiler/compiler.png"
 layout: post
 ---
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2024/01/compiler.png?w=1000)
+![](/assets/images/posts/smallc-compiler/compiler.png)
 
-<figcaption>
-
-[  
-Photo from Source \[2\]](https://marcmorcos.wordpress.com/references/) Compiler diagram
-
-</figcaption>
-
-</figure>
+*Compiler diagram. Image from T. Abdelrahman, in Compilers and Interpreters, 2023*
 
 In my ECE467 (compilers) class, I undertook the development of a compiler for a subset of C, termed SmallC. This comprehensive project not only tested my programming skills but also deepened my understanding of compiler construction and optimization techniques.
 

@@ -3,21 +3,14 @@ title: "Mapping Software - ECE297"
 date: "2021-11-07"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/mapping-software/1.gif"
 layout: post
 ---
 
-<figure>
 
-![](https://lh5.googleusercontent.com/R-2XYhfPlYltq-HdtB6E5EcxC4kbYPti-qo-RQxhC_mWwy_Q0wG1nkTo2RzsO1HciHOWmZmmlrE_yGBofTJyiwOlllY2021cAQxImMBtTrlu4HMgkv3jWh1kxHHSbIsG_LF0bNyazQ)
+![](/assets/images/posts/mapping-software/1.gif)
 
-<figcaption>
-
-A slowed down visualization of our A\* pathfinding algorithm
-
-</figcaption>
-
-</figure>
+*A slowed down visualization of our A\* pathfinding algorithm*
 
 In the ECE297 software design course, my team of three embarked on a semester-long project that involved creating mapping software with features encompassing navigation, graphical display, and a solution to the travelling courier problem—a complex NP problem akin to the travelling salesman problem. Utilizing C++, we not only met the course requirements but also went above and beyond, incorporating additional features to enhance the software's functionality and user experience.
 
@@ -71,38 +64,17 @@ In the ECE297 software design course, my team of three embarked on a semester-lo
 
 The Mapping Software project in ECE297 was not just a coding exercise but a comprehensive exploration of software design, development, and collaboration. From solving complex optimization problems to enhancing the user experience with additional features, this project encapsulated the multifaceted nature of software development. As I transitioned into a software development career, the skills honed during this project—both technical and interpersonal— served as a solid foundation for success in the dynamic and collaborative world of software engineering.
 
-<figure>
 
-![](https://lh6.googleusercontent.com/nccYbqY59rfx_yxA-dYwYJVCTDIdfGpr0tkcIqc2vnoKqfxumPS_HHWBuIAwvYV9crzXaTOCtHg4eYbTHvgXu-9mFcVBzkZnYGI-bpno9rRKgt_kd-GtMWFveu4jb8ukqM5L025P5Q)
+![](/assets/images/posts/mapping-software/2.gif)
 
-<figcaption>
+*Extra Feature: themes, including colour blind options*
 
-Extra Feature: themes, including colour blind options
 
-</figcaption>
+![](/assets/images/posts/mapping-software/3.gif)
 
-</figure>
+*Extra Feature: Custom themes/colour manager*
 
-<figure>
 
-![](https://lh6.googleusercontent.com/vV0XoGa7XHf8X3JjVgbb6rXEH7oTJBjlPkWzePBwxpAGxnJv1XQ8n7J85KU8UaD3NBcSGPm6G99RfoYuMRLm0OPW4x7KOMJN8rwvGM4ZexpbMWU-VohbcLcsy0v2gdP-QiK6C5-zqg)
+![](/assets/images/posts/mapping-software/4.gif)
 
-<figcaption>
-
-Extra Feature: Custom themes/colour manager
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![](https://lh3.googleusercontent.com/cMID3U_-HUl-6ZY7qgr38ooQgFrN1etGsUlOdHQz3S2pbvbjAfluCC1nygh5mGZk3OPaRAmU5LUjpKS3w_myljZTMOrUqV5xm08ru_AU69Sr3brLx0gWf5n_ZUct4chOqK0Wekw5RQ)
-
-<figcaption>
-
-Extra Feature: Map Toggles
-
-</figcaption>
-
-</figure>
+*Extra Feature: Map Toggles*

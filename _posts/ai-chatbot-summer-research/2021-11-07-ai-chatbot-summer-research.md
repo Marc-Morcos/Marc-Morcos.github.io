@@ -3,21 +3,14 @@ title: "Smoking Cessation AI Chatbot - Publication"
 date: "2021-11-07"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "assets/images/logo.png"
+image: "/assets/images/posts/ai-chatbot-summer-research/image-6.webp"
 layout: post
 ---
 
-<figure>
 
-![](https://marcmorcos.wordpress.com/wp-content/uploads/2021/11/image-6.png?w=884)
+![](/assets/images/posts/ai-chatbot-summer-research/image-6.webp?w=884)
 
-<figcaption>
-
-Early image of the chatbot's interface
-
-</figcaption>
-
-</figure>
+*Early image of the chatbot's interface*
 
 **Research Scholarship: AI Chatbots for Smoking Cessation**
 
