@@ -1,12 +1,9 @@
 # Site
 name: 'Marc Morcos - Portfolio'
-description: 'Portfolio displaying some of Marc Morcos' projects.'
+description: 'Portfolio displaying some of my projects.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/home'
-avatar: 'assets/images/logo.png'
-# disqus: 'demowebsite'
-# email: 'wowthemesnet@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -23,13 +20,13 @@ defaults:
 
   # all posts
   - scope:
-      path: "_posts"
+      path: "_posts/*"
     values:
       layout: post
       
   # all pages
   - scope:
-      path: "_pages"
+      path: "_pages/*"
     values:
       layout: page
       
