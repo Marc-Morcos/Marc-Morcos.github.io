@@ -510,3 +510,16 @@ a.next {
 .highlight {
   background-color: #f8f8f8;
 }
+@media (min-width: 576px) {
+  /* line 256, node_modules/bootstrap/scss/_card.scss */
+  .card-columns-custom {
+    -webkit-column-count: 3;
+            column-count: 3;
+    -webkit-column-gap: 1.25rem;
+            column-gap: 1.25rem;
+    orphans: 1;
+    widows: 1; }
+    /* line 267, node_modules/bootstrap/scss/_card.scss */
+    .card-columns-custom .card {
+      display: inline-block;
+      width: 100%; } }

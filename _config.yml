@@ -30,7 +30,6 @@ defaults:
     values:
       layout: page
       
-      
 # Syntax
 markdown: kramdown
 highlighter: rouge

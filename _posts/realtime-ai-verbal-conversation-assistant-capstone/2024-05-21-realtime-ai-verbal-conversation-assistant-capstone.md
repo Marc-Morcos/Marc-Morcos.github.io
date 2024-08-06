@@ -14,7 +14,7 @@ layout: post
 
 ### Overview
 
-As part of my capstone project, I contributed to the development of ConvoAssistant, an Android application designed to improve reflective listening skills. Reflective listening is a crucial communication technique where the listener paraphrases their conversation partner's message to foster deeper understanding and connection (similarly to the [smoking cessation AI chatbot](https://marcmorcos.wordpress.com/2021/11/07/ai-chatbot-summer-research/)). Our project leverages advanced AI technology to assist users in mastering this skill, enhancing their overall communication effectiveness.
+As part of my capstone project, I contributed to the development of ConvoAssistant, an Android application designed to improve reflective listening skills. Reflective listening is a crucial communication technique where the listener paraphrases their conversation partner's message to foster deeper understanding and connection (similarly to the [smoking cessation AI chatbot]({{site.baseurl}}/ai-chatbot-summer-research/)). Our project leverages advanced AI technology to assist users in mastering this skill, enhancing their overall communication effectiveness.
 
 ### Certificate of Distinction
 

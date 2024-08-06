@@ -27,7 +27,7 @@ During the semester, we had group dissections, where we dissected existing mecha
 
 *An engineering drawing I made in SolidWorks*
 
-Later in the course, we designed our own gearbox and had it 3D printed. I was well prepared for this due to my [previous experience with 3D printing](https://marcmorcos.wordpress.com/2021/11/07/3d-printing/). We had to print our parts within a strict printing time limit. This limited the amount of material we could print. However, we were able to use this limited material to still make a relatively durable design.
+Later in the course, we designed our own gearbox and had it 3D printed. I was well prepared for this due to my [previous experience with 3D printing]({{site.baseurl}}/3d-printing/). We had to print our parts within a strict printing time limit. This limited the amount of material we could print. However, we were able to use this limited material to still make a relatively durable design.
 
 
 ![](/assets/images/posts/mechanical-engineering-design-mie243/3.webp?w=465)
