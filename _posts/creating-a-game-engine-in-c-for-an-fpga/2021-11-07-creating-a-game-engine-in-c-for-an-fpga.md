@@ -8,9 +8,11 @@ layout: post
 ---
 
 
-![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.webp?w=485)
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.webp?w=485){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Gameplay image*
+{: refdef}
 
 In the ECE243 computer organization course, I delved into the intricacies of graphics programming from scratch on an FPGA board, a journey that provided invaluable insights into low-level computer graphics and driver operations. My teammate and I, despite the challenges of remote learning, took on the semester project with enthusiasm, creating an engaging Asteroids game that went beyond the curriculum.
 
@@ -27,9 +29,11 @@ In the ECE243 computer organization course, I delved into the intricacies of gra
     - Implemented complementary LED and 7-segment displays to showcase lives and scores.
 
 
-![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/hex.webp?w=603)
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/hex.webp?w=603){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *HEX and LED displays*
+{: refdef}
 
 **Skills and Learning:**
 
@@ -44,9 +48,11 @@ In the ECE243 computer organization course, I delved into the intricacies of gra
     - Navigated the intricacies of teamwork in a remote environment, ensuring seamless integration of diverse features.
 
 
-![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/EmulationSite.webp?w=1024)
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/EmulationSite.webp?w=1024){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Title screen of the game, shown on the emulation website*
+{: refdef}
 
 **Career Relevance:**
 

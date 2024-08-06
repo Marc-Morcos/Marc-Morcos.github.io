@@ -8,9 +8,11 @@ layout: post
 ---
 
 
-![](/assets/images/posts/distraction-free-social-media-browser/androidStudioLogo.png?w=486)
+![](/assets/images/posts/distraction-free-social-media-browser/androidStudioLogo.png?w=486){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Android Studio Logo. [Image Source](https://iconduck.com/icons/60851/android-studio)*
+{: refdef}
 
 In a conscious effort to reclaim valuable time from social media, I recognized the need to maintain a connection with friends while minimizing distractions. This realization inspired me to embark on the creation of my own distraction-free social media browsing app. Leveraging Android Studio and the Kotlin programming language, which I was concurrently learning for other projects, I set out to enhance my skills and craft a tool that aligned with my personal goals.
 

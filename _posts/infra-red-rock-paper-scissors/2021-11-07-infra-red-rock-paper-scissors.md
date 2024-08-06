@@ -8,9 +8,11 @@ layout: post
 ---
 
 
-![](/assets/images/posts/infra-red-rock-paper-scissors/1.png?w=565)
+![](/assets/images/posts/infra-red-rock-paper-scissors/1.png?w=565){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Displaying the "scissors" symbol to the infra red sensor*
+{: refdef}
 
 For our final project in grade 12 coding class, my team and I had the freedom to choose any project. Drawing inspiration from my previous experience with an infrared sensor in creating a virtual reality headset, we embarked on a journey to repurpose the sensor for an engaging and interactive Rock, Paper, Scissors game.
 

@@ -1,0 +1,26 @@
+@media (min-width: 576px) {
+  .side-margin {
+    margin-left: 10%; 
+    margin-right: 10%;
+  }
+}
+@media (min-width: 576px) {
+  /* line 256, node_modules/bootstrap/scss/_card.scss */
+  .card-columns-custom {
+    -webkit-column-count: 3;
+            column-count: 3;
+    -webkit-column-gap: 1.25rem;
+            column-gap: 1.25rem;
+    orphans: 1;
+    widows: 1; }
+    /* line 267, node_modules/bootstrap/scss/_card.scss */
+    .card-columns-custom .card {
+      display: inline-block;
+      width: 100%; } }
+.post-image{
+  display:block; 
+  margin-left:auto;
+  margin-right:auto;
+  height: 70vh;
+  object-fit: contain;
+}

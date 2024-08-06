@@ -9,7 +9,7 @@ layout: post
 
 In the ECE470 course, I was immersed in an exploration of robot modeling, forward and inverse kinematics for robot arms. This course delves into the intricate mechanics of robotic systems, offering valuable insights into their design and movement.
 
-![](/assets/images/posts/robot-modeling-course-ece470/small2-2.gif?w=180)
+![](/assets/images/posts/robot-modeling-course-ece470/small2-2.gif?w=180){: class="post-image" }
 
 **Key Learnings:**
 
@@ -30,6 +30,6 @@ In the ECE470 course, I was immersed in an exploration of robot modeling, forwar
 
 In the course's labs, I got to create path planning code for the robot to draw images. For example, I got the robot to draw a self-portrait on paper.
 
-![](/assets/images/posts/robot-modeling-course-ece470/creativepatternkukabot.jpg?w=771)
+![](/assets/images/posts/robot-modeling-course-ece470/creativepatternkukabot.jpg?w=771){: class="post-image" }
 
 In another lab, I used the artificial potential method to do path planning, picking up an object and avoiding obstacles to place it at a goal position.

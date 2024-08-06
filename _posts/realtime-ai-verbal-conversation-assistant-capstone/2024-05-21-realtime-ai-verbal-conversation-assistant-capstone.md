@@ -8,9 +8,11 @@ layout: post
 ---
 
 
-![](/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/logonobackground.png?w=376)
+![](/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/logonobackground.png?w=376){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Logo for Conversational Assistant App*
+{: refdef}
 
 ### Overview
 
@@ -41,9 +43,11 @@ The application serves as a verbal interface for a Large Language Model (LLM), s
 - **Android Application**: The application was developed using Kotlin within an Android Studio Project.
 
 
-![](/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/image.png?w=300)
+![](/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/image.png?w=300){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Android Application Interface*
+{: refdef}
 
 ### Development and Evaluation
 
@@ -66,6 +70,8 @@ ConvoAssistant successfully accomplishes its goal of facilitating reflective lis
 This project exemplifies the intersection of technology and communication, demonstrating how AI can be harnessed to improve essential interpersonal skills.
 
 
-![](/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/poster.png?w=1024)
+![](/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/poster.png?w=1024){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Final Project Poster*
+{: refdef}

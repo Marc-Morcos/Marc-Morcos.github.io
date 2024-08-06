@@ -8,9 +8,11 @@ layout: post
 ---
 
 
-![](/assets/images/posts/mapping-software/1.gif)
+![](/assets/images/posts/mapping-software/1.gif){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *A slowed down visualization of our A\* pathfinding algorithm*
+{: refdef}
 
 In the ECE297 software design course, my team of three embarked on a semester-long project that involved creating mapping software with features encompassing navigation, graphical display, and a solution to the travelling courier problem—a complex NP problem akin to the travelling salesman problem. Utilizing C++, we not only met the course requirements but also went above and beyond, incorporating additional features to enhance the software's functionality and user experience.
 
@@ -65,16 +67,22 @@ In the ECE297 software design course, my team of three embarked on a semester-lo
 The Mapping Software project in ECE297 was not just a coding exercise but a comprehensive exploration of software design, development, and collaboration. From solving complex optimization problems to enhancing the user experience with additional features, this project encapsulated the multifaceted nature of software development. As I transitioned into a software development career, the skills honed during this project—both technical and interpersonal— served as a solid foundation for success in the dynamic and collaborative world of software engineering.
 
 
-![](/assets/images/posts/mapping-software/2.gif)
+![](/assets/images/posts/mapping-software/2.gif){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Extra Feature: themes, including colour blind options*
+{: refdef}
 
 
-![](/assets/images/posts/mapping-software/3.gif)
+![](/assets/images/posts/mapping-software/3.gif){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Extra Feature: Custom themes/colour manager*
+{: refdef}
 
 
-![](/assets/images/posts/mapping-software/4.gif)
+![](/assets/images/posts/mapping-software/4.gif){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Extra Feature: Map Toggles*
+{: refdef}

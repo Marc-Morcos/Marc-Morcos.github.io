@@ -8,9 +8,11 @@ layout: post
 ---
 
 
-![](/assets/images/posts/smallc-compiler/compiler.png)
+![](/assets/images/posts/smallc-compiler/compiler.png){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
 *Compiler diagram. Image from T. Abdelrahman, in Compilers and Interpreters, 2023*
+{: refdef}
 
 In my ECE467 (compilers) class, I undertook the development of a compiler for a subset of C, termed SmallC. This comprehensive project not only tested my programming skills but also deepened my understanding of compiler construction and optimization techniques.
 

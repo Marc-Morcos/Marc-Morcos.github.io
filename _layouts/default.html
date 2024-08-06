@@ -16,15 +16,17 @@
     
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
     
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/custom.css">
+
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     
 </head>
     
 <body>
     
-    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
-    <a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/{{site.logo}}" width="50"></a>
-    <h3 class="font-weight-bold title">{{site.name}}&ensp;</h3>    
+    <nav class="navbar navbar-expand-lg navbar-light bg-white side-margin">
+    <a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/{{site.logo}}" height="70"></a>
+    <h2 class="font-weight-bold title">{{site.name}}&ensp;</h2>    
     <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
@@ -43,7 +45,7 @@
         <ul class="mb-0"></ul>
     </div>
     
-    <main role="main">        
+    <main role="main" class="side-margin">        
         {{ content }}        
     </main>
     
