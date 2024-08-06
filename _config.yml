@@ -3,7 +3,7 @@ name: 'Marc Morcos - Portfolio'
 description: 'Portfolio displaying some of my projects.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/home'
+baseurl: ''
 
 include: ["_pages"]
 permalink: /:title/
