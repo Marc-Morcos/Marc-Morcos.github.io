@@ -23,7 +23,13 @@
     orphans: 1;
     widows: 1; }
 }
-      
+
+@media (max-width: 1000px) {
+  .dissapear-narrow{
+    display: none !important;
+   }
+}
+
 .post-image{
   display:block; 
   margin-left:auto;
