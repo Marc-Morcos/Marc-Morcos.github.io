@@ -17,6 +17,7 @@
     .card-columns-custom .card {
       display: inline-block;
       width: 100%; } }
+      
 .post-image{
   display:block; 
   margin-left:auto;
@@ -24,3 +25,13 @@
   height: 70vh;
   object-fit: contain;
 }
+
+/* Remove bullet points and margin/padding from the list */
+#post-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+

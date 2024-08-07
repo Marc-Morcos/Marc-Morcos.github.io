@@ -9,11 +9,18 @@ description: "Portfolio displaying some of my projects."
     
 <div class="container-fluid">
     
-    <div class="card-columns-custom">        
+  <!-- Put posts in a list, and transpose so we chronologically order horizontally, not vertically -->
+    <div id="post-container" class="card-columns-custom">
+      <ul id="post-list">
         {% for post in paginator.posts %}
-            {% include card-post.html %}
-        {% endfor %}            
+          <li class="post-item" data-index="{{ forloop.index0 }}">
+            {% include card-post.html post=post %}
+          </li>
+        {% endfor %}
+      </ul>
     </div>
+    <script src="{{site.baseurl}}/assets/js/transpose3col.js"></script> 
+      
 
     <div class="row justify-content-center mt-5">
         {% if paginator.total_pages > 1 %}
