@@ -3,7 +3,7 @@ title: "Realtime AI Verbal Conversation Assistant - Capstone"
 date: "2024-05-21"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/logonobackground.png"
+image: "/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/cover.png"
 layout: post
 ---
 

@@ -1,11 +1,15 @@
 ---
 layout: default
 ---
-<section >    
+<section >  
+    <div>
+      {% include nav-arrows.html %}
+    </div>  
     	<div class="row justify-content-center">
     		<div class="side-margin">
                 
     			<article class="card">
+            
                     
     			<div class="card-body">
                     
@@ -41,15 +45,9 @@ layout: default
                     
     			</article>
                 
-                <div class="PageNavigation dissapear-narrow">
-                  {% if page.next.url %}
-                    <a class="prev" href="{{site.baseurl}}{{page.next.url}}"><i class="fa fa-angle-left"></i> </a>
-                  {% endif %}
-                  {% if page.previous.url %}
-                    <a class="next" href="{{site.baseurl}}{{page.previous.url}}"><i class="fa fa-angle-right"></i></a>
-                  {% endif %}
-                </div>
-                
     		</div>
+    </div>
+    <div>
+      {% include nav-arrows.html %}
     </div>
 </section>

@@ -1,0 +1,7 @@
+<!-- Go to next/previous post -->
+{% if page.next.url %}
+    <a class="prev" style="float: left;" href="{{site.baseurl}}{{page.next.url}}"><i class="fa fa-arrow-circle-left text-muted post-navigation-arrow"></i> </a>
+{% endif %}
+{% if page.previous.url %}
+    <a class="next" style="float: right;" href="{{site.baseurl}}{{page.previous.url}}"><i class="fa fa-arrow-circle-right text-muted post-navigation-arrow"></i></a>
+{% endif %}

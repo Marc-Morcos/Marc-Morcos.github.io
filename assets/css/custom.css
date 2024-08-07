@@ -37,10 +37,9 @@
   }
 }
 
-@media (max-width: 1000px) {
-  .dissapear-narrow {
-    display: none !important;
-  }
+.post-navigation-arrow{
+  font-size: 50px;
+  margin-top: 3rem;
 }
 
 /* Remove bullet points and margin/padding from the list */

@@ -31,7 +31,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarsDefault">        
     	<ul class="navbar-nav ml-auto align-items-center">
-    		{% include menu-header.html %}
+    		{% include menu-nav.html %}
         {% include menu-social.html %}
     	</ul>
     </div>
@@ -43,13 +43,11 @@
     
     <footer class="footer pt-5 pb-5 text-center">        
     <div class="container">        
-          <div class="socials-media">    
-            <ul class="list-unstyled">
-              {% include menu-header.html %}
-              {% include menu-social.html %}
-            </ul>    
-          </div>
-          {% include footer-copyright.html %}
+        <ul class="list-unstyled">
+          {% include menu-nav.html %}
+          {% include menu-social.html %}
+        </ul>
+        {% include footer-copyright.html %}
         </div>
     </footer>
     
