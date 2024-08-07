@@ -53,3 +53,12 @@
   margin-bottom: 1.7rem;
   overflow: hidden;
 }
+
+.headlineTitle {
+  font-size: min(2em,4.2vw);
+  line-height: 1;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
