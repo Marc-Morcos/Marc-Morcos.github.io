@@ -181,7 +181,7 @@ article .card-body {
 	color:#333;
 }
 .pagination a {
-	color:#bd081c;
+	color:gray;
 }
 .pagination a:hover {
 	background-color:#f1f1f1;
@@ -509,4 +509,19 @@ a.next {
 }
 .highlight {
   background-color: #f8f8f8;
+}
+a:link{
+  color:gray;
+}
+a:visited{
+  color:gray;
+}
+a:hover{
+  color:#343a40;
+}
+a:focus{
+  color:#343a40;
+}
+a:active{
+  color:#343a40;
 }
