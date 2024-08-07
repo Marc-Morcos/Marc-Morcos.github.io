@@ -55,10 +55,16 @@
 }
 
 .headlineTitle {
-  font-size: min(2em,4.2vw);
+  font-size: max(1.2em,min(2em,2.2vw));
   line-height: 1;
   text-align: center;
   padding: 0;
   margin: 0;
+}
+
+@media (max-width: 600px) {
+  .headlineTitle {
+    font-size: min(2em,4.2vw);
+  }
 }
 
