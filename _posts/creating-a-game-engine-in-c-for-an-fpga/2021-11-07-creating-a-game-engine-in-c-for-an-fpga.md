@@ -3,7 +3,7 @@ title: "Creating Asteroids from Scratch in C For an FPGA - ECE243"
 date: "2021-11-07"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.webp"
+image: "/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.gif"
 layout: post
 ---
 
@@ -48,10 +48,10 @@ In the ECE243 computer organization course, I delved into the intricacies of gra
     - Navigated the intricacies of teamwork in a remote environment, ensuring seamless integration of diverse features.
 
 
-![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/EmulationSite.webp?w=1024){: class="post-image" }
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.gif?w=1024){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
-*Title screen of the game, shown on the emulation website*
+*More gameplay on the emulation website*
 {: refdef}
 
 **Career Relevance:**
