@@ -40,6 +40,8 @@
 .post-navigation-arrow{
   font-size: 50px;
   margin-top: 3rem;
+  margin-left: 1rem;
+  margin-right: 1.5rem;
 }
 
 /* Remove bullet points and margin/padding from the list */
