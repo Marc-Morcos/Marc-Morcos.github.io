@@ -5,6 +5,14 @@
   }
 }
 
+.card-columns-custom {
+  -webkit-column-count: 1;
+          column-count: 1;
+  -webkit-column-gap: 1.25rem;
+          column-gap: 1.25rem;
+  orphans: 1;
+  widows: 1;
+}
 @media (min-width: 600px) {
   .card-columns-custom {
     -webkit-column-count: 2;
