@@ -1,6 +1,6 @@
 ---
 title: "Realtime AI Verbal Conversation Assistant - Capstone"
-date: "2024-05-21"
+date: "2024-01-21"
 metadate: "hide"
 categories: [ Portfolio ]
 image: "/assets/images/posts/realtime-ai-verbal-conversation-assistant-capstone/cover.png"
