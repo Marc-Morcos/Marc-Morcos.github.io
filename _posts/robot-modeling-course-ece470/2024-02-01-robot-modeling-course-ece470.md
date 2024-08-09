@@ -11,6 +11,16 @@ In the ECE470 course, I was immersed in an exploration of robot modeling, forwar
 
 ![](/assets/images/posts/robot-modeling-course-ece470/small2-2.gif?w=180){: class="post-image" }
 
+In the course's labs, I got to create path planning code for the robot to draw images. For example, I got the robot to draw a self-portrait on paper.
+
+![](/assets/images/posts/robot-modeling-course-ece470/creativepatternkukabot.jpg?w=771){: class="post-image" }
+
+{:refdef: style="text-align: center;"}
+*Self-portrait drawn by the robot using control code I wrote.*
+{: refdef}
+
+In another lab, I used the artificial potential method to do path planning, picking up an object and avoiding obstacles to place it at a goal position.
+
 **Key Learnings:**
 
 1. **Robot Modeling:**
@@ -27,13 +37,3 @@ In the ECE470 course, I was immersed in an exploration of robot modeling, forwar
     - Tackling the complexities of path planning in the context of robot arms.
     
     - Engaging with the nuances of gradient descent to navigate a path laden with obstacles, fostering problem-solving skills in real-world scenarios.
-
-In the course's labs, I got to create path planning code for the robot to draw images. For example, I got the robot to draw a self-portrait on paper.
-
-![](/assets/images/posts/robot-modeling-course-ece470/creativepatternkukabot.jpg?w=771){: class="post-image" }
-
-{:refdef: style="text-align: center;"}
-*Self-portrait drawn by the robot using control code I wrote.*
-{: refdef}
-
-In another lab, I used the artificial potential method to do path planning, picking up an object and avoiding obstacles to place it at a goal position.
