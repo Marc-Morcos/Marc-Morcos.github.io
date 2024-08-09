@@ -3,7 +3,7 @@ title: "SmallC Compiler - ECE467"
 date: "2024-01-01"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "/assets/images/posts/smallc-compiler/compiler.png"
+image: "/assets/images/posts/smallc-compiler/Cropped.png"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Evolutionary Algos, Reinforcement Learning, and Pacman"
-date: "2024-02-01"
+date: "2022-04-13"
 metadate: "hide"
 categories: [ Portfolio ]
 image: "/assets/images/posts/Reinforcement-Learning-Evolutionary-Algos-and-Pacman/pacmangame.webp"
@@ -33,7 +33,7 @@ We made the decision to use BFS after realizing that AI could not calculate dist
 *Some gameplay from the "OneHit" model*
 {: refdef}
 
-After completing the NEAT-based project, I wanted to explore if reinforcement learning (RL) could perform better. Despite occasionally getting extremely high scores, the models produced by NEAT could sometimes be inconsistent. On my own, I ran some experiments with A2C, but soon realized that I needed more compute power to test various state space inputs effectively. The RL model found creative ways to break the game, and each training round required days, so I could not effectively tune hyperparameters without having more dedicated computer power. Additionally, I concluded that in a deterministic environment like PAC-MAN, RL might not be the most ideal approach, as it doesn't leverage the strengths of non-deterministic environments where uncertainty and exploration are key.
+After completing the NEAT-based project, I wanted to explore if reinforcement learning (RL) could perform better. Despite occasionally getting extremely high scores, the models produced by NEAT could sometimes be inconsistent. On my own, I ran some experiments with A2C, but soon realized that I needed more compute power to test various state space inputs effectively. The RL model found creative ways to break the game, and each training round required days, so I could not effectively tune hyperparameters without having more dedicated computer power (even if I ran it without rendering the game, which made training much faster). Additionally, I concluded that in a deterministic environment like PAC-MAN, RL might not be the most ideal approach, as it doesn't leverage the strengths of non-deterministic environments where uncertainty and exploration are key.
 
 **Key Learnings:**
 

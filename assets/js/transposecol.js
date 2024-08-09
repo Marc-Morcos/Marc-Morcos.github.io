@@ -27,12 +27,28 @@ document.addEventListener("DOMContentLoaded", function() {
     // Create an array to hold the transposed order
     const transposedPosts = new Array(posts.length);
   
+    let bonusPost = null;
     posts.forEach((post, index) => {
       const rowIndex = Math.floor(index / numColumns);
       const colIndex = index % numColumns;
       const transposedIndex = colIndex * numRows + rowIndex;
-      transposedPosts[transposedIndex] = post;
+      if(transposedIndex == posts.length){
+          bonusPost = post;
+      }else{
+          transposedPosts[transposedIndex] = post;
+      }
     });
+    
+    // fix empty space post
+    if(bonusPost !== null){
+        let emptyInd = -1;
+        for(emptyInd = 0; emptyInd < transposedPosts.length; emptyInd++){
+          if(!transposedPosts.hasOwnProperty(emptyInd)){
+            break;
+          }
+        }
+        transposedPosts[emptyInd] = bonusPost;
+    }
   
     // Clear the original list and append transposed posts
     postList.innerHTML = '';
