@@ -12,7 +12,7 @@ layout: post
 The highlight of my ECE 410 course was the hands-on implementation of advanced control theory through the Inverted Pendulum project. This ambitious endeavor not only reinforced my theoretical understanding of robotics control but also showcased my ability to apply this knowledge to real-world challenges.
 
 1. **Theoretical Mastery:**
-    - Acquired in-depth knowledge in advanced control concepts, including Kalman decomposition, state feedback stabilization, optimal control, and integral control.
+    - Acquired in-depth knowledge in advanced control concepts, including Kalman decomposition, PID, LQR, MPC, state feedback stabilization, optimal control, and integral control.
     
     - Applied these theoretical foundations specifically to the challenging dynamics of stabilizing an inverted pendulum on a moving cart.
 
