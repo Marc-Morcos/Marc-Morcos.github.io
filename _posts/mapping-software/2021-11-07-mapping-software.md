@@ -74,7 +74,7 @@ The Mapping Software project in ECE297 was not just a coding exercise but a comp
 {: refdef}
 
 
-![](/assets/images/posts/mapping-software/3.gif){: class="post-image" }
+![](/assets/images/posts/mapping-software/3.webp){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *Extra Feature: Custom themes/colour manager*

@@ -3,17 +3,17 @@ title: "Robot Modeling Course - ECE470"
 date: "2024-02-01"
 metadate: "hide"
 categories: [ Portfolio ]
-image: "/assets/images/posts/robot-modeling-course-ece470/small2-3.gif"
+image: "/assets/images/posts/robot-modeling-course-ece470/small2-2.gif"
 layout: post
 ---
 
 In the ECE470 course, I was immersed in an exploration of robot modeling, forward and inverse kinematics for robot arms. This course delves into the intricate mechanics of robotic systems, offering valuable insights into their design and movement.
 
-![](/assets/images/posts/robot-modeling-course-ece470/small2-2.gif?w=180){: class="post-image" }
+![](/assets/images/posts/robot-modeling-course-ece470/small2-2.gif?w=180){: class="post-image"  style="height: 200vh"}
 
 In the course's labs, I got to create path planning code for the robot to draw images. For example, I got the robot to draw a self-portrait on paper.
 
-![](/assets/images/posts/robot-modeling-course-ece470/creativepatternkukabot.jpg?w=771){: class="post-image" }
+![](/assets/images/posts/robot-modeling-course-ece470/creativepatternkukabot.jpg?w=771){: class="post-image" style="height: 200vh}
 
 {:refdef: style="text-align: center;"}
 *Self-portrait drawn by the robot using control code I wrote.*
