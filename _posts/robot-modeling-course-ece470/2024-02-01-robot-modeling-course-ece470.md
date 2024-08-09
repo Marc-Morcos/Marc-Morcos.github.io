@@ -32,4 +32,8 @@ In the course's labs, I got to create path planning code for the robot to draw i
 
 ![](/assets/images/posts/robot-modeling-course-ece470/creativepatternkukabot.jpg?w=771){: class="post-image" }
 
+{:refdef: style="text-align: center;"}
+*Self-portrait drawn by the robot using control code I wrote.*
+{: refdef}
+
 In another lab, I used the artificial potential method to do path planning, picking up an object and avoiding obstacles to place it at a goal position.
