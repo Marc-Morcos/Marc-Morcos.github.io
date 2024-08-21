@@ -1,6 +1,6 @@
 ---
 title: "Infra Red Rock Paper Scissors - Grade 12 Coding"
-date: "2021-11-08"
+date: "2020-11-08"
 metadate: "hide"
 categories: [ Portfolio ]
 image: "/assets/images/posts/infra-red-rock-paper-scissors/1.png"
