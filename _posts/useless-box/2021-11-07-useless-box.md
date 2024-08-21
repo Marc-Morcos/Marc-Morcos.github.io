@@ -10,7 +10,7 @@ layout: post
 During my grade 11 coding course, we were given the freedom to choose a project, and my team enthusiastically decided to create a "useless" box, a whimsical device that deactivates itself when clicked. Leveraging a Raspberry Pi board and a relay, we embarked on a journey that not only resulted in a fun and quirky creation but also provided invaluable insights into coding, hardware integration, and prototyping.
 
 
-![](/assets/images/posts/useless-box/box-1.gif?w=414){: class="post-image" }
+![](/assets/images/posts/useless-box/box-1.gif){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *The "Useless" box in action*

@@ -10,6 +10,7 @@ description: "Portfolio displaying some of my projects."
   <!-- Put posts in a list, and transpose so we chronologically order horizontally, not vertically -->
     <div class="grid">
       <div class="grid-sizer"></div>
+      <div class="gutter-sizer"></div>
       {% for post in paginator.posts %}
         <div class="grid-item">
           {% include card-post.html post=post %}

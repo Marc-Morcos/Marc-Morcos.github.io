@@ -8,7 +8,7 @@ layout: post
 ---
 
 
-![](/assets/images/posts/infra-red-rock-paper-scissors/1.png?w=565){: class="post-image" }
+![](/assets/images/posts/infra-red-rock-paper-scissors/1.png){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *Displaying the "scissors" symbol to the infra red sensor*

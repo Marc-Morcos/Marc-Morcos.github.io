@@ -8,7 +8,7 @@ layout: post
 ---
 
 
-![](/assets/images/posts/ai-chatbot-summer-research/image-6.webp?w=884){: class="post-image" }
+![](/assets/images/posts/ai-chatbot-summer-research/image-6.webp){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *Early image of the chatbot's interface*

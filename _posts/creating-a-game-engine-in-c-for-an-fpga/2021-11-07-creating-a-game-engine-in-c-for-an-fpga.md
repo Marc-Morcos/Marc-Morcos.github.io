@@ -8,7 +8,7 @@ layout: post
 ---
 
 
-![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.webp?w=485){: class="post-image" }
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.webp){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *Gameplay image*
@@ -29,7 +29,7 @@ In the ECE243 computer organization course, I delved into the intricacies of gra
     - Implemented complementary LED and 7-segment displays to showcase lives and scores.
 
 
-![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/hex.webp?w=603){: class="post-image" }
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/hex.webp){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *HEX and LED displays*
@@ -48,7 +48,7 @@ In the ECE243 computer organization course, I delved into the intricacies of gra
     - Navigated the intricacies of teamwork in a remote environment, ensuring seamless integration of diverse features.
 
 
-![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.gif?w=1024){: class="post-image" }
+![](/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.gif){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *More gameplay on the emulation website*

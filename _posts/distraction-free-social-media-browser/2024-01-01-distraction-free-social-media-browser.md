@@ -8,7 +8,7 @@ layout: post
 ---
 
 
-![](/assets/images/posts/distraction-free-social-media-browser/androidStudioLogo.png?w=486){: class="post-image" }
+![](/assets/images/posts/distraction-free-social-media-browser/androidStudioLogo.png){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *Android Studio Logo. [Image Source](https://iconduck.com/icons/60851/android-studio)*

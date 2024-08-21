@@ -8,7 +8,7 @@ layout: post
 ---
 
 
-![](/assets/images/posts/autonomous-rover-team-university-of-toronto-robotics-association/1-1.png?w=507){: class="post-image" }
+![](/assets/images/posts/autonomous-rover-team-university-of-toronto-robotics-association/1-1.png){: class="post-image" }
 
 {:refdef: style="text-align: center;"}
 *This is a previous rover from the same club, current rover is still in production at time of writing. [Photo Source](https://www.utra.ca/teams/ART/)*

@@ -35,14 +35,17 @@
   }
 }
 
+/* Column margin */
 .grid-item { 
-  margin-bottom: 20px;
+  margin-bottom: 2%;
 }
+/* Margin sides */
+.gutter-sizer { width: 2%; }
 
 /* Column sizing */
 .grid-sizer,
 .grid-item { 
-  width: 98%; 
+  width: 100%; 
 }
 @media screen and  (min-width: 680px) {
   .grid-sizer,
@@ -53,6 +56,6 @@
 @media screen and  (min-width: 1000px) {
   .grid-sizer,
   .grid-item { 
-    width: 30%; 
+    width: 32%; 
   }
 }
