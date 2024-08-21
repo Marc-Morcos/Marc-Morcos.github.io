@@ -8,16 +8,17 @@ description: "Portfolio displaying some of my projects."
 <div class="container-fluid">
     
   <!-- Put posts in a list, and transpose so we chronologically order horizontally, not vertically -->
-    <div id="post-container" class="card-columns-custom">
-      <ul id="post-list">
-        {% for post in paginator.posts %}
-          <li class="post-item" data-index="{{ forloop.index0 }}">
-            {% include card-post.html post=post %}
-          </li>
-        {% endfor %}
-      </ul>
+    <div class="grid">
+      <div class="grid-sizer"></div>
+      {% for post in paginator.posts %}
+        <div class="grid-item">
+          {% include card-post.html post=post %}
+        </div>
+      {% endfor %}
     </div>
-    <script src="{{site.baseurl}}/assets/js/transposecol.js"></script> 
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js" integrity="sha384-e3sbGkYzJZpi7OdZc2eUoj7saI8K/Qbn+kPTdWyUQloiKIc9HRH4RUWFVxTonzTg" crossorigin="anonymous"></script>
+    <script src="{{site.baseurl}}/assets/js/masonryhelper.js"></script> 
       
 
     <div class="row justify-content-center mt-5">
