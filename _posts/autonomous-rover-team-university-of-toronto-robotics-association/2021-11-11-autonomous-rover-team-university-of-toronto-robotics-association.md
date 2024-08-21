@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Rover Team - University of Toronto Robotics Association"
-date: "2021-11-06"
+date: "2021-11-11"
 metadate: "hide"
 categories: [ Portfolio ]
 image: "/assets/images/posts/autonomous-rover-team-university-of-toronto-robotics-association/1-1.png"

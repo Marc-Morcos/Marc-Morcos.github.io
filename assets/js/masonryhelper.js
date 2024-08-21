@@ -7,7 +7,6 @@ var $grid = $('.grid').masonry({
     columnWidth: '.grid-sizer',
     percentPosition: true,
     gutter: '.gutter-sizer',
-    horizontalOrder: true
 });
 
 // layout Masonry after each image loads

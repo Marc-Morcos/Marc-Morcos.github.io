@@ -1,6 +1,6 @@
 ---
 title: "Mechanical Engineering Design (MIE243)"
-date: "2021-11-09"
+date: "2022-11-01"
 metadate: "hide"
 categories: [ Portfolio ]
 image: "/assets/images/posts/mechanical-engineering-design-mie243/1.webp"

@@ -1,6 +1,6 @@
 ---
 title: "Creating Asteroids from Scratch in C For an FPGA - ECE243"
-date: "2021-11-07"
+date: "2021-11-12"
 metadate: "hide"
 categories: [ Portfolio ]
 image: "/assets/images/posts/creating-a-game-engine-in-c-for-an-fpga/gameplay.gif"
