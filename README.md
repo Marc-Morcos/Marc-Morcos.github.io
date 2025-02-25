@@ -6,8 +6,8 @@ This site showcases my work and projects in software development. Site:
 How to run locally:
 
 ```
-bundle install    # (only need first time)
-'bundle exec jekyll serve'
+bundle install   # (only needed on first time)
+bundle exec jekyll serve
 ```
 
 Then see http://localhost:4000
